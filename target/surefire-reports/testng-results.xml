@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BaseTest" duration-ms="1011" started-at="2023-04-04T16:02:52 CEST" finished-at="2023-04-04T16:02:53 CEST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="1011" started-at="2023-04-04T16:02:52 CEST" finished-at="2023-04-04T16:02:53 CEST">
+      <class name="BaseTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:BaseTest@6895a785]" name="setUp" is-config="true" duration-ms="4680" started-at="2023-04-04T16:02:48 CEST" finished-at="2023-04-04T16:02:52 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:BaseTest@6895a785]" name="test1" duration-ms="984" started-at="2023-04-04T16:02:52 CEST" finished-at="2023-04-04T16:02:53 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- BaseTest -->
+</testng-results>
